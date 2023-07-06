@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "input file name to execute"
+read var
+chmod +x ${var}
