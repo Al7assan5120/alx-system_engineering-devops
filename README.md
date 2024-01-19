@@ -1,1 +1,1 @@
- she bang a
+ she bang
